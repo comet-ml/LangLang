@@ -130,7 +130,7 @@ def generate_response(prompt: str) -> str:
 
 After:
 ```python
-from langlang import OpenAI
+from langlang.openai import OpenAI
 
 def generate_response(prompt: str) -> str:
     llm = OpenAI(api_key="your-api-key")
