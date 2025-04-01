@@ -8,7 +8,7 @@ The most widely supported GenAI development platform. LangLang is the only LLM f
 - **Unified Interface**: Access all major LLM frameworks through a single, consistent API
 - **Comprehensive Integration**: Built-in support for LangChain, LangGraph, Transformers, OpenAI, Anthropic, and more
 - **Simplified Development**: Replace your boilerplate code with _better_ boilerplate code—so you can focus on building your applications
-- **Production Ready**: Enterprise-grade reliability and performance
+- **Production Ready**: LangLang contains many battle-tested, production-ready dependencies
 - **Advanced Template Processing**: State-of-the-art Template Augmented Generation with G-UNIT (Guided Unified Notation for Intelligent Text)
 - **Enhanced Function Documentation**: Sophisticated decorator system for improved code readability
 
