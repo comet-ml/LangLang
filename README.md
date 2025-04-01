@@ -1,4 +1,5 @@
 # LangLang
+![image](https://github.com/user-attachments/assets/77f02fd9-35ac-4853-9c6f-6d3b960ecef8)
 
 The most widely supported GenAI development platform. LangLang is the only LLM framework that works with every library, every provider, and every (Python) stack. Via its single unified interface, LangLang it easier than ever to build AI-powered applications.
 
