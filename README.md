@@ -194,4 +194,4 @@ We are sincere in our ambition to integrate LangLang with every LLM library in t
 - [Club Penguin Community](https://www.reddit.com/r/ClubPenguin/)
 - [Sponsored by Opik](https://github.com/comet-ml/opik)
 
-LangLang was built with ❤️ by Ollie the Owl, who has been studying both Python and Twitter as part of his degree in LLMs.
+LangLang was built with ❤️ by Ollie the Owl
