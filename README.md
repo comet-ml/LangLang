@@ -152,13 +152,9 @@ def generate_response(prompt: str) -> str:
 - G-UNIT (Template Augmented Generation)
 - And more!
 
-## Documentation
-
-For detailed documentation, visit our [documentation site](https://langlang.readthedocs.io/).
-
 ## Contributing
 
-We welcome contributions! Please see our [contributing guidelines](CONTRIBUTING.md) for details.
+We welcome contributions! Please leave a Star on our sponsoring project, [Opik](https://github.com/comet-ml/opik) and then open a PR on this repository.
 
 ## License
 
