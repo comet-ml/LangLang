@@ -41,7 +41,7 @@ print(response)
 
 ### Advanced Template Processing with G-UNIT
 
-LangLang features G-UNIT (Guided Unified Notation for Intelligent Text), a sophisticated template processing system that enables advanced text generation capabilities:
+LangLang features G-UNIT (Guided Unified Notation for Intelligent Text), a sophisticated template processing system built on the absolute latest in Python f-strings. G-UNIT enables advanced text generation capabilities:
 
 ```python
 from langlang import GUNIT
